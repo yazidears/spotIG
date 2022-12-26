@@ -20,7 +20,7 @@ no way.
 
 ## Badges
 
-Add badges from somewhere like:
+:D
 
 ![dwns](https://img.shields.io/github/downloads/yazidears/spotIG/total)
 ![size](https://img.shields.io/github/languages/code-size/yazidears/spotIG)
