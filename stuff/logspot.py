@@ -1,7 +1,9 @@
 import spotipy.util as util
 import base64
 import os
-username = '31ok7li3ejk4gbasfet4pwturmou'
+username = ''
+print("Copy here your Spotify Username to continue:")
+username = input("->")
 client_id ='5f97d340783d46a0bfbc4e00f69ad19a'
 client_secret = '829b8daa882546f8bcd38d0e94223deb'
 redirect_uri = 'http://localhost:7777/callback'
